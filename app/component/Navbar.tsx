@@ -31,10 +31,10 @@ export default function Navbar() {
                     Навыки
                 </Link>
                 <Link
-                    to="/"
+                    to="/work"
                     className="py-2 px-4 rounded-[8px] bg-white/10 dark:bg-black/10 hover:bg-white/20 dark:hover:bg-black/20"
                 >
-                    Работы
+                    Проекты
                 </Link>
             </div>
             <div className="md:hidden flex items-center justify-center p-2 bg-white/10 dark:bg-black/10 hover:bg-white/20 dark:hover:bg-black/20 rounded-[8px]">
