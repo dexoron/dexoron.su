@@ -13,13 +13,13 @@ export default function Work() {
         <div className="h-full w-full flex flex-col gap-2">
             <h1 className="text-center text-4xl font-bold">Мои проекты</h1>
             <div className="w-full flex md:flex-row flex-col gap-2">
-                <div className="dark:bg-black/10 bg-white/10 p-2 rounded-[8px] gap-2">
+                <div className="dark:bg-black/10 bg-white/10 p-2 rounded-[8px] flex flex-col gap-2">
                     <img
                         src={speeks}
                         alt=""
                         className="w-full rounded-[8px]"
                     />
-                    <p className="text-center text-2xl font-bold">Speeks</p>
+                    <p className="text-center text-xl font-bold">Speeks</p>
                     <p className="w-full">
                         Speeks App — это современное веб-приложение для общения,
                         включающее систему аутентификации, чаты, список друзей и
@@ -34,13 +34,13 @@ export default function Work() {
                         </a>
                     </div>
                 </div>
-                <div className="dark:bg-black/10 bg-white/10 p-2 rounded-[8px] gap-2">
+                <div className="dark:bg-black/10 bg-white/10 p-2 rounded-[8px] flex flex-col gap-2">
                     <img
                         src={speeks}
                         alt=""
                         className="w-full rounded-[8px]"
                     />
-                    <p className="text-center text-2xl font-bold">Speeks</p>
+                    <p className="text-center text-xl font-bold">Speeks</p>
                     <p className="w-full">
                         Speeks App — это современное веб-приложение для общения,
                         включающее систему аутентификации, чаты, список друзей и
@@ -55,13 +55,13 @@ export default function Work() {
                         </a>
                     </div>
                 </div>
-                <div className="dark:bg-black/10 bg-white/10 p-2 rounded-[8px] gap-2">
+                <div className="dark:bg-black/10 bg-white/10 p-2 rounded-[8px] flex flex-col gap-2">
                     <img
                         src={speeks}
                         alt=""
                         className="w-full rounded-[8px]"
                     />
-                    <p className="text-center text-2xl font-bold">Speeks</p>
+                    <p className="text-center text-xl font-bold">Speeks</p>
                     <p className="w-full">
                         Speeks App — это современное веб-приложение для общения,
                         включающее систему аутентификации, чаты, список друзей и
