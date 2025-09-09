@@ -103,11 +103,11 @@ export default function Navbar() {
                         Навыки
                     </Link>
                     <Link
-                        to="/"
+                        to="/work"
                         className="p-4 rounded-[8px] bg-white/10 dark:bg-black/10 hover:bg-white/20 dark:hover:bg-black/20"
                         onClick={() => setIsMenuOpen(false)}
                     >
-                        Работы
+                        Проекты
                     </Link>
                 </div>
             </div>
