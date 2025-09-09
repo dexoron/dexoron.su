@@ -1,5 +1,4 @@
 import type { Route } from './+types/home';
-import Logo from '~/static/img/logo-8-round.svg';
 
 export function meta({}: Route.MetaArgs) {
     return [
